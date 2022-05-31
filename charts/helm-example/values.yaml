@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: 905564305388.dkr.ecr.ap-southeast-1.amazonaws.com/github-labs-repo
-  version: main-8471792
+  version: main-05b34eb
 
 imagePullSecrets: []
 nameOverride: ""
